@@ -162,12 +162,12 @@ export const listTools = [
   },
 ];
 
-const Learnnova from "/assets/proyek/learnnova.jpg";
-const Siomay from "/assets/proyek/siomay.jpg";
-const Koinflix from "/assets/proyek/koinflix.jpg";
-const Kunriayah from "/assets/proyek/kun.jpg";
-const Antribank from "/assets/proyek/antribank.jpg";
-const Dzunnur from "/public/assets/proyek/dzunnur.jpg";
+import Learnnova from "/assets/proyek/learnnova.jpg";
+import Siomay from "/assets/proyek/siomay.jpg";
+import Koinflix from "/assets/proyek/koinflix.jpg";
+import Kunriayah from "/assets/proyek/kun.jpg";
+import Antribank from "/assets/proyek/antribank.jpg";
+import Dzunnur from "/public/assets/proyek/dzunnur.jpg";
 
 export const listProyek = [
   {
